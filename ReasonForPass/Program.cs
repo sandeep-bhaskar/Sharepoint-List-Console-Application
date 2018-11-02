@@ -2,7 +2,7 @@
 using System.Security;
 using Microsoft.SharePoint.Client;
 
-namespace ReasonForPass
+namespace SharepointListRetriever
 {
     class Program
     {

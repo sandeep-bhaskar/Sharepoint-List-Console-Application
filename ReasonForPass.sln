@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReasonForPass", "ReasonForPass\ReasonForPass.csproj", "{15B22832-BD32-426E-A9D6-E1A2D8ACE81B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharepointListRetriever", "ReasonForPass\SharepointListRetriever.csproj", "{15B22832-BD32-426E-A9D6-E1A2D8ACE81B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

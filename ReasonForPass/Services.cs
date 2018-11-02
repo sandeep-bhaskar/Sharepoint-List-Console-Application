@@ -1,14 +1,9 @@
 ﻿using Microsoft.SharePoint.Client;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Security;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ReasonForPass
+namespace SharepointListRetriever
 {
-   public class Services
+    public class Services
     {
        public static ClientContext Context { get; set; }
 
